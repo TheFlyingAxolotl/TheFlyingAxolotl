@@ -12,6 +12,6 @@ I don't know, but I sure see a lot of posts that say the only way to end racism 
 There are 2 kinds of data analysts:
 1. Those who cane extrapolate from incomplete data
 
-- Backend development w PHP 🔁
+- VR app development + Voice recognition 
 
-One day I'll go to the optician cause I can't C#
+Ok more of because I have to do it as part of my research project 😅
