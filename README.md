@@ -9,8 +9,7 @@ I don't know, but I sure see a lot of posts that say the only way to end racism 
 
 - Data Analysis w Python 📊
 
-There are 2 kinds of data analysts:
-1. Those who cane extrapolate from incomplete data
+There are 2 kinds of data analysts: Firstly, those who can extrapolate from incomplete data.
 
 - VR app development + Voice recognition 
 
